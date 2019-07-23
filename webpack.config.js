@@ -2,7 +2,9 @@ var path = require('path');
 
 module.exports = {
     entry: {
-        Index: './src/index.js'
+        Index: './src/index.js',
+        HeaderLeftLogo: './src/types/HeaderLeftLogo.js',
+        HeaderLeftLogoWithText: './src/types/HeaderLeftLogoWithText.js'
     },
     output: {
         path: path.resolve(__dirname, 'types'),
