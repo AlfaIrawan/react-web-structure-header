@@ -1,6 +1,6 @@
 {
   "name": "react-web-structure-header",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "description": "Put a description here",
   "main": "build/index.js",
   "peerDependencies": {
