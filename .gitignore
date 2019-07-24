@@ -25,9 +25,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .idea/workspace.xml
-.idea/workspace.xml
 types/HeaderLeftLogo.js
 types/HeaderLeftLogoWithText.js
-.idea/workspace.xml
 types/Index.js
-yarn.lock
