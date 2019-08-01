@@ -1,6 +1,6 @@
 {
   "name": "react-web-structure-header",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "A header template that can be add in a web application or web site.",
   "main": "build/index.js",
   "peerDependencies": {
